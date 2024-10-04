@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+// Main style
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Demos */
+@import "./metronic/css/demos/demo1.css";
+
+// Keenicons
+@import "primeng/resources/themes/lara-light-blue/theme.css";
+@import "primeng/resources/primeng.css";
+@import "./metronic/vendors/keenicons/duotone/style.css";
+@import "./metronic/vendors/keenicons/filled/style.css";
+@import "./metronic/vendors/keenicons/outline/style.css";
+@import "./metronic/vendors/keenicons/solid/style.css";
